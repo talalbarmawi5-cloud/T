@@ -1,0 +1,14 @@
+/Users/talal/Desktop/II/bin/Debug/net10.0/II
+/Users/talal/Desktop/II/bin/Debug/net10.0/II.deps.json
+/Users/talal/Desktop/II/bin/Debug/net10.0/II.runtimeconfig.json
+/Users/talal/Desktop/II/bin/Debug/net10.0/II.dll
+/Users/talal/Desktop/II/bin/Debug/net10.0/II.pdb
+/Users/talal/Desktop/II/obj/Debug/net10.0/II.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/II/obj/Debug/net10.0/II.AssemblyInfoInputs.cache
+/Users/talal/Desktop/II/obj/Debug/net10.0/II.AssemblyInfo.cs
+/Users/talal/Desktop/II/obj/Debug/net10.0/II.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/II/obj/Debug/net10.0/II.dll
+/Users/talal/Desktop/II/obj/Debug/net10.0/refint/II.dll
+/Users/talal/Desktop/II/obj/Debug/net10.0/II.pdb
+/Users/talal/Desktop/II/obj/Debug/net10.0/II.genruntimeconfig.cache
+/Users/talal/Desktop/II/obj/Debug/net10.0/ref/II.dll
