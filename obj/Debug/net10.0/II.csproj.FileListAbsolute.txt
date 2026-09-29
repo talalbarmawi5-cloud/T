@@ -12,3 +12,4 @@
 /Users/talal/Desktop/II/obj/Debug/net10.0/II.pdb
 /Users/talal/Desktop/II/obj/Debug/net10.0/II.genruntimeconfig.cache
 /Users/talal/Desktop/II/obj/Debug/net10.0/ref/II.dll
+/Users/talal/Desktop/II/obj/Debug/net10.0/II.sourcelink.json
